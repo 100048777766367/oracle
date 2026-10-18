@@ -1,9 +1,9 @@
 {
     "contract": "bodhi.contract.v1",
-    "identity": "100048777766367/contract",
-    "epoch": 10,
-    "timestamp": 1792313198,
+    "identity": "100048777766367/oracle",
+    "epoch": 11,
+    "timestamp": 1792315528,
     "decision": 0.5,
-    "quantum_cid": "2b88bdb4426117070dca0dd75d4a29a0dce2ebf2667f1aaf7c656ee614a81c1d780b073d6ebc8d297d9f3f72649252465e0360a8bef151c355725a2b77fad379",
+    "quantum_cid": "1b63769b8f344cc385b5d32fde85e59e90f03fd8a24565bda602a08591df557e55e6a404baf5d93b1d53357028132d973cc845d154a553e438f14c1a0483f6f7",
     "status": "in_strict_compliance_with_contract_q"
 }
