@@ -1,6 +1,6 @@
 {
-    "generation_epoch": 59,
-    "last_t": 1793341912,
-    "quantum_cid": "736954de885994ac00f307f42558d4336270916e44d848cde4e5b0b32c4df642537a3d746450c79338f0b3cbaa716078bc6926757cf35afde15680b717407fc6",
+    "generation_epoch": 60,
+    "last_t": 1793373726,
+    "quantum_cid": "a93bc6e5560ad30fe6b92ef4e7eb8d45a72386f18e3f043fd969694cfb102f6e700981bfcb1b77ee05158c7c675071aecd707ba65df06a0cc79b17476d15b3dc",
     "status": "reality_anchored"
 }
