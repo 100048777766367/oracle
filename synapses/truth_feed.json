@@ -1,17 +1,17 @@
 {
-    "epoch": 61,
-    "timestamp": 1793394502,
+    "epoch": 62,
+    "timestamp": 1793427667,
     "market_pulse": {
         "usd_index": 1.0,
         "market_sentiment": "STABLE",
-        "connectivity": false
+        "connectivity": true
     },
     "validation": {
-        "verified": false,
-        "truth_confidence": 0.5
+        "verified": true,
+        "truth_confidence": 0.95
     },
     "pricing_feed": {
         "suggested_dataset_usd": 4.99
     },
-    "anchored_decision": 0.5294
+    "anchored_decision": 0.6644
 }
