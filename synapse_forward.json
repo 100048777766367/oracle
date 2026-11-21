@@ -2,13 +2,13 @@
     "contract": "bodhi.contract.v1",
     "identity": "100048777766367/oracle",
     "role": "REAL_WORLD_GROUND_TRUTH_ORACLE",
-    "epoch": 123,
-    "timestamp": 1795195252,
+    "epoch": 124,
+    "timestamp": 1795225682,
     "truth_payload": {
         "anchored_decision": 0.6644,
         "suggested_price_usd": 4.99,
         "reality_connected": true
     },
-    "quantum_cid": "de5331fc526b950405716b9f8cc3d20e3293fbfa91dddeea54d588d0ada0281ae806ee828fe89f6f71623693e7d5c800362e443d556c178e6e4934b4fd8c33ab",
+    "quantum_cid": "88b53999c0cd7b4a6c4a5c3ec31a8fcd7233ca677566ddd95a81438fc06c936ced6d09adcfaebd1c644953cec5c1c6ddd50c4a224fbf6e8093ad7968b880a4e8",
     "status": "oracle_truth_certified"
 }
